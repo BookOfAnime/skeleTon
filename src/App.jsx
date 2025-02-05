@@ -118,7 +118,7 @@ function App() {
           </Canvas>
         </CanvasContainer>
         <Navbar>
-          <BoneButton href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+          <BoneButton href="https://x.com/skelly_ai" target="_blank" rel="noopener noreferrer">
             <BoneIcon viewBox="0 0 24 24">
               <path d="M8 3a1 1 0 0 1 1 1v3.279l1.172 1.172a1 1 0 0 1 0 1.414L9 11.038V19a1 1 0 1 1-2 0v-7.962l-1.172-1.173a1 1 0 0 1 0-1.414L7 7.279V4a1 1 0 0 1 1-1zm8 0a1 1 0 0 1 1 1v3.279l1.172 1.172a1 1 0 0 1 0 1.414L17 11.038V19a1 1 0 1 1-2 0v-7.962l-1.172-1.173a1 1 0 0 1 0-1.414L15 7.279V4a1 1 0 0 1 1-1z"/>
             </BoneIcon>
@@ -130,12 +130,12 @@ function App() {
             </BoneIcon>
             <ButtonText>PumpFun</ButtonText>
           </BoneButton>
-          <BoneButton href="https://telegram.org" target="_blank" rel="noopener noreferrer">
+{/*           <BoneButton href="https://telegram.org" target="_blank" rel="noopener noreferrer">
             <BoneIcon viewBox="0 0 24 24">
               <path d="M8 3a1 1 0 0 1 1 1v3.279l1.172 1.172a1 1 0 0 1 0 1.414L9 11.038V19a1 1 0 1 1-2 0v-7.962l-1.172-1.173a1 1 0 0 1 0-1.414L7 7.279V4a1 1 0 0 1 1-1zm8 0a1 1 0 0 1 1 1v3.279l1.172 1.172a1 1 0 0 1 0 1.414L17 11.038V19a1 1 0 1 1-2 0v-7.962l-1.172-1.173a1 1 0 0 1 0-1.414L15 7.279V4a1 1 0 0 1 1-1z"/>
             </BoneIcon>
             <ButtonText>Telegram</ButtonText>
-          </BoneButton>
+          </BoneButton> */}
         </Navbar>
         <Title>SkellyAI</Title>
       </AppContainer>
