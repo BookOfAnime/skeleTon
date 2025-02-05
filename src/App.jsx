@@ -137,7 +137,7 @@ function App() {
             <ButtonText>Telegram</ButtonText>
           </BoneButton>
         </Navbar>
-        <Title>Skeletron</Title>
+        <Title>SkellyAI</Title>
       </AppContainer>
     </>
   );
